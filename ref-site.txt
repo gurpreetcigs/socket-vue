@@ -1,0 +1,8 @@
+https://medium.com/@jaouad_45834/basic-chat-web-app-using-express-js-vue-js-socket-io-429588e841f0
+https://socket.io/get-started/chat/
+https://www.techiediaries.com/how-to-bring-node-js-modules-to-the-browser/
+https://socket.io/docs/client-api/
+
+command to run server
+php -S localhost:8000 index.php
+php -S localhost:8000 -t <folder-name> <folder-name>/index.php
